@@ -1,4 +1,4 @@
-const mongoose = reqiuire('mongoose');
+const mongoose = require('mongoose');
 
 const IdeaSchema = new mongoose.Schema({
   text: {
