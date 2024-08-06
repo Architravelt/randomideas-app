@@ -1,4 +1,4 @@
-import IdeasApi from '../services/ideasApi';
+import IdeasApi from '../services/ideasapi';
 
 class IdeaList {
   constructor() {
