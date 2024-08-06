@@ -10,7 +10,7 @@ class IdeasApi {
   }
 
   createIdea(data) {
-    return axoios.post(this._apiUrl, data);
+    return axios.post(this._apiUrl, data);
   }
 }
 
